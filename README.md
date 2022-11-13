@@ -34,7 +34,7 @@
 <br/>
 <br/>
 
-<div align="center">⭐online courses certificates included here are not representing the all classes i have enrolled. some did not offer a certificate for acomplishing the course and others, i have audited.</div>
+<div align="center">⭐Online courses certificates included here are not representing the all classes i have enrolled. Some did not offer a certificate for acomplishing the course and others, I have just audited.</div>
 
 <br/>
 <br/>
