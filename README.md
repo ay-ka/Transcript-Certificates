@@ -93,6 +93,7 @@ Project Link: [https://github.com/ay-ka/CVwebsite](https://github.com/ay-ka/CVwe
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [pytopia - a platform for learning python](https://www.pytopia.ai/)
+* [pytopia - a platform for learning python](https://www.pytopia.ai/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
