@@ -36,7 +36,11 @@
 
 <div align="center">⭐Online courses certificates included here are not representing the all classes i have enrolled. Some did not offer a certificate for acomplishing the course and others, I have just audited.</div>
 
-<div align="center">⭐Another important thing to mention is that i have enrolled Python and Machine Learning Course from  </div> * [pytopia - a platform for learning python](https://www.pytopia.ai/)
+<div align="center">⭐Another important thing to mention is that i have enrolled Python and Machine Learning Course from  </div> 
+
+
+* [pytopia - a platform for learning python](https://www.pytopia.ai/)
+
 <br/>
 <br/>
 
