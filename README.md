@@ -37,7 +37,7 @@
 
 ⭐ Online courses certificates included here are not representing the all classes i have enrolled. Some did not offer a certificate for acomplishing the course and others, I have just audited
 
-⭐ Another important thing to mention is that i have enrolled Python and Machine Learning Course from ⭐ [pytopia - a platform for learning python](https://www.pytopia.ai/) 
+⭐ Another important thing to mention is that i have enrolled Python and Machine Learning Course from [pytopia - a platform for learning python](https://www.pytopia.ai/), which were among the most comprehensive courses i have ever taken. 
 
 
 <br/>
