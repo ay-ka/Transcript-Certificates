@@ -34,12 +34,11 @@
 <br/>
 <br/>
 
-<div align="center">⭐Online courses certificates included here are not representing the all classes i have enrolled. Some did not offer a certificate for acomplishing the course and others, I have just audited.</div>
 
-<div align="center">⭐Another important thing to mention is that i have enrolled Python and Machine Learning Course from  </div> 
+⭐ Online courses certificates included here are not representing the all classes i have enrolled. Some did not offer a certificate for acomplishing the course and others, I have just audited
 
+⭐ Another important thing to mention is that i have enrolled Python and Machine Learning Course from ⭐ [pytopia - a platform for learning python](https://www.pytopia.ai/) 
 
-* [pytopia - a platform for learning python](https://www.pytopia.ai/)
 
 <br/>
 <br/>
@@ -96,7 +95,7 @@ Project Link: [https://github.com/ay-ka/CVwebsite](https://github.com/ay-ka/CVwe
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [pytopia - a platform for learning python](https://www.pytopia.ai/)
-* [pytopia - a platform for learning python](https://www.pytopia.ai/)
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
